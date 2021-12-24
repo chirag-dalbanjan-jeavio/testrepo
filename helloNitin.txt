@@ -1,3 +1,7 @@
 hello nitin
 trying cherry pick 
+<<<<<<< HEAD
 bye
+=======
+Hi
+>>>>>>> chirag
