@@ -1,7 +1,11 @@
 hello nitin
 trying cherry pick 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi
 ha bol chirag su keh chhe
 =======
 >>>>>>> tryinh cherry pick
+=======
+bye
+>>>>>>> hello
